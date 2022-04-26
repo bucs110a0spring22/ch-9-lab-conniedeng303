@@ -7,18 +7,17 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
-
+   I first created a rectangle class that has x,y,width,height parameters/atrributes, which are set to 0 if they ar less than 0. Then I created a string function which returns the x,y,w,h values. I then created a surface class that imported the rectangle class to create a rect object.
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < 0 >
 
-Grace days remaining: < # >/5
+Grace days remaining: < 1 >/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ < NONE >
 
 ## REFERENCES:
- < List any outside resources used >
+ < NONE >
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ < NONE >
